@@ -96,5 +96,5 @@ JavaScript
 
 # Autor
 
-Este projeto foi desenvolvido como parte de um sistema de avaliação para atletas em competições esportivas.
+Desenvolvido por Danubio Medeiros Cabral
 
